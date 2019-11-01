@@ -14,7 +14,7 @@ I am a M.S. student in Computer Science at Beijing University of Posts and Telec
 
 * **School of Information Security, Beijing University of Posts and Telecommunications**
 
-  M.S. Student in Information Security, Sep. 2014 -- Jun. 2018
+  College student in Information Security, Sep. 2014 -- Jun. 2018
 
 ## Publications
 
@@ -39,7 +39,7 @@ I am a M.S. student in Computer Science at Beijing University of Posts and Telec
 ##  Experience
 ------
 
-- Research Intern At MSRA
+- Oct. 10, 2017 - Apr. 9, 2018 Research Intern At MSRA
 
 
 
