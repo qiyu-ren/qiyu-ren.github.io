@@ -20,13 +20,17 @@
 
 ---
 
-* Jianyu Yang, Xiang Cheng, Sen su, Rui Chen, **Qiyu Ren**, Yuhan Liu, "**Collecting Preference Rankings under Local Differential Privacy**"
+* **Qiyu Ren**, Xiang Cheng and Sen su, "**Multi-Task Learning with Generative Adversarial Training for Multi-Passage Machine Reading Comprehension**"
 
-  **ICDE2018**, short paper
+  **AAAI2020**, long paper
 
 * Sinan Tan, **Qiyu Ren**, Hui Xue, Huaping Liu and Jing Bai, "**An Automated Question-Answering Framework Based On Evolution Algorithm**"
 
   **RCQA-AAAI2019**, long paper
+
+* Jianyu Yang, Xiang Cheng, Sen su, Rui Chen, **Qiyu Ren**, Yuhan Liu, "**Collecting Preference Rankings under Local Differential Privacy**"
+
+  **ICDE2018**, short paper
 
 ## 奖项 & 荣誉
 
